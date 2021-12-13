@@ -1,0 +1,6 @@
+JVM:         /home/gitpod/.sdkman/candidates/java/17.0.0-tem/bin/java
+JVM Args:    
+Run Args:    "--client", "/workspace/MCP-Reborn/projects/mcp/build/mcp/stripClient/output.jar", "--server", "/workspace/MCP-Reborn/projects/mcp/build/mcp/stripServer/output.jar", "--ann", "1.18.1", "--output", "/workspace/MCP-Reborn/projects/mcp/build/mcp/merge/output.jar", "--inject", "false"
+Classpath:   /workspace/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/mergetool/1.1.3/mergetool-1.1.3-fatjar.jar
+Working Dir: /workspace/MCP-Reborn/projects/mcp/build/mcp/merge
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger
